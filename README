@@ -1,0 +1,6 @@
+To run this program do, run the following commands in this directory:
+
+make
+
+./drive.o
+
